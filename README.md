@@ -9,13 +9,15 @@ Final project for the Udacity Full Stack Nanodegree:
 
 Amazon Lightsail was used to host the server and is accessible at:
 
-* IP Address: 35.177.37.255
+* IP Address: ~~35.177.37.255~~
 
-* SSH Port: 2200
+* SSH Port: ~~2200~~
 
-* Application URL: [http://ec2-35-177-37-255.eu-west-2.compute.amazonaws.com](http://ec2-35-177-37-255.eu-west-2.compute.amazonaws.com)
+* Application URL: ~~[http://ec2-35-177-37-255.eu-west-2.compute.amazonaws.com](http://ec2-35-177-37-255.eu-west-2.compute.amazonaws.com)~~
 
 The application deployed on the server is the [Item Catalog](https://github.com/Andrewalderton/fullstack-nanodegree-item-catalog) project developed earlier in the course.
+
+**Please Note: Amazon account has been closed since completing the course, therefore the server is no longer accessible.**
 
 ## Server Configuration
 
